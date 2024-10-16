@@ -1,7 +1,7 @@
 # Milestone 1 Project on File Handling and Statistics
 
 ## Authors
-James Haimoff, Daniel David, Christian Abrimian
+James Haimoff, Daniel Davis, Christian Abrimian
 
 Below is our project UML and our Output Example Based on Our Specific Articles
 
