@@ -1,4 +1,4 @@
-# Milestone 1 Project on File Handling and Statistics
+# M1 Project on File Handling and Statistics
 
 ## Authors
 James Haimoff, Daniel Davis, Christian Abrimian
